@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:spry="http://ns.adobe.com/spry">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Station37</title>
+<meta name="Author" content="Flo2Tours">
+<meta name="description" content="Station 37, information sur les points d'arrêts autocar en Touraine."/>
+<meta name="keywords" content="TER Centre, Fil Vert, Remi, Transports Scolaire, Bus Chinon, Bus Amboise, Bus Chateau-Renault, Bus Decartes, Sitravel, Fil Rouge, Philobus, Station de Bus, Arrêt Bus, " />
+<meta property="og:title" content="Station 37" />
+<meta property="og:description" content="Information sur les points d'arrêts autocar en Touraine" />
+<meta property="og:url" content="http://tvt37.free.fr/station37/" />
+<meta property="og:image" content="http://tvt37.free.fr/station37/logo.png" />
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="335">
+<meta property="og:image:height" content="233">
+<link href="ico/favicon.ico" rel="icon">
+<link href="ico/favicon.png" rel="shortcut icon">
+<link href="ico/favicon_32.png" rel="icon" type="image/png" sizes="32x32">
+<link href="ico/favicon_48.png" rel="icon" type="image/png" sizes="48x48">
+<link href="ico/favicon_96.png" rel="icon" type="image/png" sizes="96x96">
+<link href="ico/favicon_144.png" rel="icon" type="image/png" sizes="144x144">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="ico/apple/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="ico/apple/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="ico/apple/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="ico/apple/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="ico/apple/apple-touch-icon-180x180-precomposed.png">
+<meta name="application-name" content="Station 37"/>
+<meta name="msapplication-TileColor" content="#009EE0"/>
+<meta name="msapplication-square70x70logo" content="ico/ms/tiny.png"/>
+<meta name="msapplication-square150x150logo" content="ico/ms/square.png"/>
+<meta name="msapplication-wide310x150logo" content="ico/ms/wide.png"/>
+<meta name="msapplication-square310x310logo" content="ico/ms/large.png"/>
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="initial-scale=1.0" user-scalable="no">
+<script type="text/javascript" src="js/popup.js"></script>
+<script type="text/javascript" src="js/xpath.js"></script>
+<script type="text/javascript" src="js/SpryData.js"></script>
+<script type="text/javascript" src="js/SpryDataExtensions.js"></script>
+<script type="text/javascript" src="js/FilterData.js"></script>
+<script type="text/javascript" src="js/tr_fb.js"></script>
+<script type="text/javascript">
+var stations = new Spry.Data.XMLDataSet("src/stations.xml", "Arret/infos_arret", {useCache: false});
+stations.setFilterMode("or", true); // pour ToggleFilter
+</script>
+<link href="https://fonts.googleapis.com/css?family=Fugaz+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet"> 
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/SpryMasterDetail.css" rel="stylesheet" type="text/css" /> 
+<link href="css/responsive.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<section class="header" id="header">
+<div class="titre">Station 37</div>
+<DIV id="rechercher">
+<UL id="onglets">
+  <LI><A href="#commune">Recherche par commune</A></LI>		 
+  <LI><A href="#arret">Recherche par arrêt</A></LI>		 
+  <LI><A href="#ligne">Recherche par ligne</A></LI>
+  <LI><A href="#reseaux">Filtres de recherches</A></LI>	 
+</UL>
+<DIV id="recherche">
+<DIV class="saisie_recherche">
+<A name="commune" id="commune"></A><br />			 
+<p><INPUT type="text" id="filterTF" placeholder="nom de la commune" onKeyUp="StartFilterCommunes();" size="40"> 
+<input type="checkbox" class="check" id="containsCB" /><label for="containsCB"><span class="ui"></span>contient</label>
+</p></DIV>
+<DIV class="saisie_recherche">
+<A name="arret" id="arret"></A><br />			 
+<p><INPUT type="text" id="filterTF2" placeholder="nom de l'arrêt" onKeyUp="StartFilterArrets();" size="40">
+<input type="checkbox" class="check" id="containsCB2" checked /><label for="containsCB2"><span class="ui"></span>contient</label>
+</p></DIV>
+<DIV class="saisie_recherche">
+<A name="ligne" id="ligne"></A><br />			 
+<p><INPUT type="text" id="filterTF3" placeholder="numéro ou réference de la ligne" onKeyUp="StartFilterLigne();" size="40">
+<input type="checkbox" class="check" id="containsCB3" checked /><label for="containsCB3"><span class="ui"></span>contient</label>
+</p></DIV>
+<DIV class="saisie_recherche">
+<A name="reseaux" id="reseaux"></A><br />			 
+<p><FORM action="">
+<P>Afficher les stations dersservis en priorité par :</P>
+<LABEL><INPUT name="TerCvlCB" onclick="ToggleFilter(this.checked, ffTerCvl);" type="checkbox" value="">Rémi interregional</LABEL>
+<LABEL><INPUT name="RemiCB" onclick="ToggleFilter(this.checked, ffRemi);" type="checkbox" value="">Rémi 37 (lignes régulières)</LABEL>
+<LABEL><INPUT name="FilbleuCB" onclick="ToggleFilter(this.checked, ffFilbleu);" type="checkbox" value="">Fil Bleu</LABEL>
+<LABEL><INPUT name="LBusCB" onclick="ToggleFilter(this.checked, ffLBus);" type="checkbox" value="">Le Bus</LABEL>
+<LABEL><INPUT name="PhilobusCB" onclick="ToggleFilter(this.checked, ffPhilobus);" type="checkbox" value="">Philobus</LABEL>
+<LABEL><INPUT name="SitravelCB" onclick="ToggleFilter(this.checked, ffSitravel);" type="checkbox" value="">Sitravel</LABEL>	
+<LABEL><INPUT name="FilrougeCB" onclick="ToggleFilter(this.checked, ffFilrouge);" type="checkbox" value="">Fil Rouge</LABEL>	
+<LABEL><INPUT name="RemiTADCB" onclick="ToggleFilter(this.checked, ffRemiTAD);" type="checkbox" value="">Rémi + TAD</LABEL>
+</FORM>
+</p></DIV>
+</DIV></DIV>
+<DIV id="counter" spry:region="stations">{ds_RowCount} points d'arrêts correspondent à votre recherche</DIV>
+</section>
+<section class="content" id="content">
+<div class="MasterDetail">
+  <div spry:region="stations" class="MasterContainer">
+    <div class="MasterColumn" spry:repeat="stations" spry:setrow="stations" spry:hover="MasterColumnHover" spry:select="MasterColumnSelected"><a  href="javascript:openDetailPopup()">{commune} - {arret}</a></div>
+  </div>
+  <div spry:detailregion="stations" class="DetailContainer" id="DetailPopup" style="visibility: hidden;">
+  <div class="TopPopup">
+<div class="btClose"><a href="javascript:closeDetailPopup()">X</a></div>
+    <div class="arret">🚏 {commune} - {arret}</div>
+    <div class="DetailColumn">{commentaire}</div>
+    <div class="Toolbar">
+    <UL id="bt">
+    <LI class="{geo}" id="bt_localiser" onclick="window.open('https://www.google.fr/maps/search/{geo}', '_blank')">localiser</LI>
+    <LI class="{code_remi}" id="bt_tr" onclick="window.open('https://remi.plateforme-2cloud.com/2clock/arrets/fiche-arret/{code_remi}?n=6', '_blank')">Rémi (scolaire)</LI>
+    <LI class="{code_sncf}" id="bt_tr" onclick="window.open('https://www.sncf.com/fr/gares/tours/OCE{code_sncf}', '_blank')">SNCF</LI>
+    <LI class="{code_fb}" id="bt_tr" onclick="javascript: tempsreel()"><div class="tr_fb"><form action="https://www.filbleu.fr/horaires-et-trajet/horaires-temps-reel?view=tempsreel" method="post" name="tr_form" target="_blank">
+ <input name="id_arret" type="hidden" id="id_arret" value="{code_fb}" readonly>
+<input name="ordering" type="hidden" id="ordering" value="1" checked>Fil Bleu</form></div> </LI>
+</UL>
+</div>
+<p>Ligne(s) à cet arrêt :</p>
+</div>
+<UL id="detail">
+  <LI style="background-image: url(src/{logo_service1});"><A href="{url_service1}" target="_blank">{service1}</A></LI>
+  <LI style="background-image: url(src/{logo_service2});"><A href="{url_service2}" target="_blank">{service2}</A></LI>
+  <LI style="background-image: url(src/{logo_service3});"><A href="{url_service3}" target="_blank">{service3}</A></LI>
+  <LI style="background-image: url(src/{logo_service4});"><A href="{url_service4}" target="_blank">{service4}</A></LI>
+  <LI style="background-image: url(src/{logo_service5});"><A href="{url_service5}" target="_blank">{service5}</A></LI>
+  <LI style="background-image: url(src/{logo_service6});"><A href="{url_service6}" target="_blank">{service6}</A></LI>
+  <LI style="background-image: url(src/{logo_service7});"><A href="{url_service7}" target="_blank">{service7}</A></LI>
+  <LI style="background-image: url(src/{logo_service8});"><A href="{url_service8}" target="_blank">{service8}</A></LI>
+  <LI style="background-image: url(src/{logo_service9});"><A href="{url_service9}" target="_blank">{service9}</A></LI>
+  <LI style="background-image: url(src/{logo_service10});"><A href="{url_service10}" target="_blank">{service10}</A></LI>	
+  <LI style="background-image: url(src/{logo_service11});"><A href="{url_service11}" target="_blank">{service11}</A></LI>
+  <LI style="background-image: url(src/{logo_service12});"><A href="{url_service12}" target="_blank">{service12}</A></LI>
+  <LI style="background-image: url(src/{logo_service13});"><A href="{url_service13}" target="_blank">{service13}</A></LI>
+  <LI style="background-image: url(src/{logo_service14});"><A href="{url_service14}" target="_blank">{service14}</A></LI>
+  <LI style="background-image: url(src/{logo_service15});"><A href="{url_service15}" target="_blank">{service15}</A></LI>
+  <LI style="background-image: url(src/{logo_service16});"><A href="{url_service16}" target="_blank">{service16}</A></LI>
+  <LI style="background-image: url(src/{logo_service17});"><A href="{url_service17}" target="_blank">{service17}</A></LI>
+  <LI style="background-image: url(src/{logo_service18});"><A href="{url_service18}" target="_blank">{service18}</A></LI>
+  <LI style="background-image: url(src/{logo_service19});"><A href="{url_service19}" target="_blank">{service19}</A></LI>
+  <LI style="background-image: url(src/{logo_service20});"><A href="{url_service20}" target="_blank">{service20}</A></LI>
+  <LI style="background-image: url(src/{logo_service21});"><A href="{url_service21}" target="_blank">{service21}</A></LI>
+  <LI style="background-image: url(src/{logo_service22});"><A href="{url_service22}" target="_blank">{service22}</A></LI>
+  <LI style="background-image: url(src/{logo_service23});"><A href="{url_service23}" target="_blank">{service23}</A></LI>
+  <LI style="background-image: url(src/{logo_service24});"><A href="{url_service24}" target="_blank">{service24}</A></LI>
+  <LI style="background-image: url(src/{logo_service25});"><A href="{url_service25}" target="_blank">{service25}</A></LI>
+  <LI style="background-image: url(src/{logo_service26});"><A href="{url_service26}" target="_blank">{service26}</A></LI>	
+  <LI style="background-image: url(src/{logo_service27});"><A href="{url_service27}" target="_blank">{service27}</A></LI>
+  <LI style="background-image: url(src/{logo_service28});"><A href="{url_service28}" target="_blank">{service28}</A></LI>
+  <LI style="background-image: url(src/{logo_service29});"><A href="{url_service29}" target="_blank">{service29}</A></LI>
+  <LI style="background-image: url(src/{logo_service30});"><A href="{url_service30}" target="_blank">{service30}</A></LI>
+  <LI style="background-image: url(src/{logo_service31});"><A href="{url_service31}" target="_blank">{service31}</A></LI>
+  <LI style="background-image: url(src/{logo_service32});"><A href="{url_service32}" target="_blank">{service32}</A></LI>
+  <LI style="background-image: url(src/{logo_service33});"><A href="{url_service33}" target="_blank">{service33}</A></LI>
+  <LI style="background-image: url(src/{logo_service34});"><A href="{url_service34}" target="_blank">{service34}</A></LI>
+  <LI style="background-image: url(src/{logo_service35});"><A href="{url_service35}" target="_blank">{service35}</A></LI>
+  <LI style="background-image: url(src/{logo_service36});"><A href="{url_service36}" target="_blank">{service36}</A></LI>
+  <LI style="background-image: url(src/{logo_service37});"><A href="{url_service37}" target="_blank">{service37}</A></LI>	 
+</UL>
+  <br style="clear:both" />
+</div></div>
+</section>
+<section class="footer">
+<p>Projet personnel - informations données à titre indicatif et susceptibles de varier selon les périodes et les décisions des opérateurs de transport.</p>
+</section>
+</body>
+</html>
