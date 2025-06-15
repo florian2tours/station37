@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+/* SpryMasterDetail.css */
+
+/* Copyright (c) 2007. Adobe Systems Incorporated. All rights reserved. */
+
+/* This is the selector for the main Master/Detail structure container. 
+ *
+ * If you want to constrain the width of the Master/Detail structure, set a width on
+ * the Master/Detail container. By default, our structure expands horizontally to fill
+ * up available space.
+ */
+.MasterDetail
+{
+	font: 100% Verdana, Geneva, sans-serif;
+	margin: 2px;
+}
+
+/* This is the selector for the Master Container element which houses all the MasterColumn
+ * classes. By default the Master column occupy about 35% from the width of the 
+ * entire structure. 
+*/
+.MasterDetail .MasterContainer
+{
+	border: 1px solid gray;
+	width: 100%;
+	overflow-y: scroll;
+	height: 400px;
+	z-index: 1;
+	position: relative;
+}
+
+/* This is the selector for a Master Column element which holds the actual data for 
+ * a master column.
+*/
+.MasterDetail .MasterColumn {
+	padding: 15px;
+	cursor: pointer;
+	font-family: 'Muli', sans-serif;
+	text-align: center;
+	border-bottom-style: inset;
+	border-bottom-color: #EAEAEA;
+	border-bottom-width: 1px;
+}
+.MasterDetail .MasterColumn a:link {
+	text-decoration: none;
+}
+.MasterDetail .MasterColumn a {
+	font-size: small;
+	color: #4F565C;
+}
+
+/* This is the selector for a highlighted Master Column element.
+*/
+.MasterDetail .MasterColumnHover
+{
+	background-color: #EAEAEA;
+}
+
+/* This is the selector for a selected Master Column element.
+*/
+.MasterDetail .MasterColumnSelected
+{
+	background-color:#13235B;
+	color: white;
+}
+
+/* This is the selector for the Detail Container element which houses all the DetailColumn
+ * classes. By default the Detail column occupy about 60% from the width of the 
+ * entire structure. 
+*/
+.MasterDetail .DetailContainer
+{
+	border: 1px solid gray;
+	padding: 10px;
+	width: 99%;
+	height: 740px;
+	margin-top: -750px;
+	margin-left: -3px;
+	background-color: #FFF;
+	z-index: 99;
+	position: relative;
+	display: inline-block;
+	overflow-y: scroll;
+}
+
+/* This is the selector for a Detail Column element which holds the actual data for 
+ * a detail column.
+*/
+.MasterDetail .DetailColumn
+{
+	margin-bottom: 1px;
+	font-size: x-small;
+	text-align: left;
+	font-style: italic;
+	background-color: #FFF;
+	color: #4F565C;
+}

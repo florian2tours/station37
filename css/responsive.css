@@ -1,0 +1,89 @@
+@charset "utf-8";
+@viewport {
+   width: device-width;
+   zoom: 1;
+}
+@media screen and (min-width:750px) and (max-width:850px) {
+	.saisie_recherche {
+	padding-left: 100px;
+	}
+}
+@media screen and (min-width:700px) and (max-width:750px) {
+	.saisie_recherche {
+	padding-left: 46px;
+	}
+	}
+@media screen and (min-width:640px) and (max-width:700px) {
+	.saisie_recherche {
+	padding-left: 46px;
+	}
+	[type="checkbox"]:not(:checked) + label,
+	[type="checkbox"]:checked + label {
+	top: 10px;		
+	}
+}
+@media screen and (min-width:550px) and (max-width:640px) {
+#rechercher a {
+	font-size: x-small;
+}
+	.saisie_recherche {
+	padding-left: 46px;
+	}
+	[type="checkbox"]:not(:checked) + label,
+	[type="checkbox"]:checked + label {
+	top: 10px;		
+	}
+}
+@media screen and (min-width:510px) and (max-width:550px) {
+#rechercher a {
+	font-size: xx-small;
+}
+	.saisie_recherche {
+	padding-left: 40px;
+	}
+	input {
+	font-size: 15px;
+	}
+	[type="checkbox"]:not(:checked) + label,
+	[type="checkbox"]:checked + label {
+	top: 10px;		
+	}
+}
+@media screen and (min-width:0px) and (max-width:510px) {
+.MasterDetail .MasterContainer
+{
+	width: 90%;
+	height: 300px;
+}
+.MasterDetail .DetailContainer
+{
+	width: 88%;
+	height: 700px;
+	margin-top: -700px;
+}
+#rechercher a {
+	font-size: xx-small;
+	margin-left: 10px;
+}
+#onglets {
+	width: auto;
+	margin-left: 20%;
+}
+#onglets li {
+	display: list-item;
+}
+.saisie_recherche {
+	padding-left: 90px;
+}
+input {
+	font-size: 10px;
+	}
+	[type="checkbox"]:not(:checked) + label,
+	[type="checkbox"]:checked + label {
+	top: 10px;
+	font-size: 10px;
+	}
+.TopPopup {
+	width: 80%;
+}
+}
