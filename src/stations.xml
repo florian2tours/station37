@@ -4166,6 +4166,18 @@
 		<url_service3>https://media.mobireport.fr/244/pdf_files/8b3ade44003cd4352617dcc13552173d.pdf</url_service3>
 	</infos_arret>
 	<infos_arret>
+		<commune>BEAUMONT-VILLAGE</commune>
+		<arret>Mairie</arret>
+		<geo>_</geo>
+		<code_jvmalin>135536</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
 		<commune>BENAIS</commune>
 		<arret>Chavannes</arret>
 		<geo>47.312496,0.19711</geo>
@@ -5976,18 +5988,6 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHAMBOURG SUR INDRE</commune>
-		<arret>Le Stade</arret>
-		<geo>47.180874,0.972089</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>6499</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_ts.png</logo_service1>
-		<service1>Circuit Scolaire SE1_16 - DOLUS-LE-SEC &gt; LOCHES</service1>
-		<url_service1>https://media.mobireport.fr/244/pdf_files/8652ec373f4af0d59e7b9cbb1435b771.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
-		<commune>CHAMBOURG SUR INDRE</commune>
 		<arret>L'Île Thimée</arret>
 		<geo>47.186722,0.974417</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -5997,6 +5997,21 @@
 		<logo_service1>logo_services/remi_ts.png</logo_service1>
 		<service1>Circuit Scolaire SE1_15 - CHAMBOURG-SUR-INDRE &gt; LOCHES</service1>
 		<url_service1>https://media.mobireport.fr/244/pdf_files/7ba6840c6853de10a8be3ed79f45ef9a.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>CHAMBOURG SUR INDRE</commune>
+		<arret>Stade</arret>
+		<geo>47.180874,0.972089</geo>
+		<code_jvmalin>135538</code_jvmalin>
+		<code_remi>6499</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_2-2025.pdf</url_service1>
+		<logo_service2>logo_services/remi_ts.png</logo_service2>
+		<service2>Circuit Scolaire SE1_16 - DOLUS-LE-SEC &gt; LOCHES</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/8652ec373f4af0d59e7b9cbb1435b771.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHAMBRAY LES TOURS</commune>
@@ -7690,6 +7705,18 @@
 		<url_service1>https://media.mobireport.fr/244/pdf_files/1ee9a8941a4a38c99bd83e98edae324d.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
+		<commune>CHEDIGNY</commune>
+		<arret>Rue Chante l'Indrois</arret>
+		<geo>47.208635, 0.997691</geo>
+		<code_jvmalin>135540</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_2-2025.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
 		<commune>CHEILLE</commune>
 		<arret>Beauregard</arret>
 		<geo>47.268623,0.396095</geo>
@@ -7928,6 +7955,18 @@
 		<code_fb>_</code_fb>
 	</infos_arret>
 	<infos_arret>
+		<commune>CHEMILLE-SUR-INDROIS</commune>
+		<arret>Pièce de Chemillé</arret>
+		<geo>_</geo>
+		<code_jvmalin>135534</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
 		<commune>CHENONCEAUX</commune>
 		<arret>Centre</arret>
 		<geo>47.331472,1.072057</geo>
@@ -7946,7 +7985,7 @@
 		<commune>CHENONCEAUX</commune>
 		<arret>Château</arret>
 		<geo>47.332084,1.065164</geo>
-		<code_jvmalin>80068</code_jvmalin>
+		<code_jvmalin>_</code_jvmalin>
 		<code_remi>7108</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
@@ -7962,7 +8001,7 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHENONCEAUX</commune>
-		<arret>Château  (parking)</arret>
+		<arret>Château (parking)</arret>
 		<geo>47.330328,1.066565</geo>
 		<code_jvmalin>80068</code_jvmalin>
 		<code_remi>_</code_remi>
@@ -7971,6 +8010,9 @@
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE C TOURISTIQUE - TOURS &gt; AMBOISE &gt; CHENONCEAUX</service1>
 		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_Ctouristique-4.pdf</url_service1>
+		<logo_service2>logo_services/remi.png</logo_service2>
+		<service2>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service2>
+		<url_service2>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_2-2025.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHEZELLES</commune>
@@ -16157,18 +16199,24 @@
 		<service2>LIGNE J - SAINTE MAURE DE TOURAINE &gt; LOCHES &gt; AMBOISE</service2>
 		<url_service2>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_J.pdf</url_service2>
 		<logo_service3>logo_services/remi.png</logo_service3>
-		<service3>LIGNE TC - DESCARTES &gt; LOCHES &gt; GENILLE</service3>
-		<url_service3>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_TC.pdf</url_service3>
+		<service3>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service3>
+		<url_service3>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_1-2025.pdf</url_service3>
 		<commentaire>Parking Gare SNCF</commentaire>
-		<logo_service4>logo_services/remi_tad.png</logo_service4>
-		<service4>desservi par le service 37-06 - secteur de Loches</service4>
-		<url_service4>https://www.remi-centrevaldeloire.fr/wp-content/uploads/Commun/TAD/37-06.pdf</url_service4>
-		<logo_service5>logo_services/remi_tad.png</logo_service5>
-		<service5>desservi par le service 37-12 - secteur de Loches</service5>
-		<url_service5>https://www.remi-centrevaldeloire.fr/wp-content/uploads/Commun/TAD/37-12.pdf</url_service5>
-		<logo_service6>logo_services/car.png</logo_service6>
-		<service6>mini bus -  gare SNCF de Loches - MFR du Lochois (lun.)</service6>
-		<url_service6>https://www.mfrlochois.fr/fr/article/questions-pratiques-4.html</url_service6>
+		<logo_service4>logo_services/remi.png</logo_service4>
+		<service4>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service4>
+		<url_service4>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_2-2025.pdf</url_service4>
+		<logo_service5>logo_services/remi.png</logo_service5>
+		<service5>LIGNE TC - DESCARTES &gt; LOCHES &gt; GENILLE</service5>
+		<url_service5>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_TC.pdf</url_service5>
+		<logo_service6>logo_services/remi_tad.png</logo_service6>
+		<service6>desservi par le service 37-06 - secteur de Loches</service6>
+		<url_service6>https://www.remi-centrevaldeloire.fr/wp-content/uploads/Commun/TAD/37-06.pdf</url_service6>
+		<logo_service7>logo_services/remi_tad.png</logo_service7>
+		<service7>desservi par le service 37-12 - secteur de Loches</service7>
+		<url_service7>https://www.remi-centrevaldeloire.fr/wp-content/uploads/Commun/TAD/37-12.pdf</url_service7>
+		<logo_service8>logo_services/car.png</logo_service8>
+		<service8>mini bus -  gare SNCF de Loches - MFR du Lochois (lun.)</service8>
+		<url_service8>https://www.mfrlochois.fr/fr/article/questions-pratiques-4.html</url_service8>
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
@@ -18435,13 +18483,16 @@
 		<commune>MONTRESOR</commune>
 		<arret>Gendarmerie</arret>
 		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
+		<code_jvmalin>135533</code_jvmalin>
 		<code_remi>12082</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_ts.png</logo_service1>
-		<service1>Circuit Scolaire SE1_5 - MONTRÉSOR &gt; LOCHES</service1>
-		<url_service1>https://media.mobireport.fr/244/pdf_files/d8b32fbcc866e17d36edb04a8041e099.pdf</url_service1>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+		<logo_service2>logo_services/remi_ts.png</logo_service2>
+		<service2>Circuit Scolaire SE1_5 - MONTRÉSOR &gt; LOCHES</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/d8b32fbcc866e17d36edb04a8041e099.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>MONTRESOR</commune>
@@ -20159,12 +20210,12 @@
 		<logo_service1>logo_services/gatine_racan.png</logo_service1>
 		<service1>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service1>
 		<url_service1>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service1>
+		<logo_service2>logo_services/remi_ts.png</logo_service2>
+		<service2>Circuit Scolaire NO3_18 - NEUILLÉ-PONT-PIERRE &gt; CHÂTEAU-RENAULT</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/d1b9c4057d4a12685b920e9f343796c2.pdf</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
-		<service3>Circuit Scolaire NO3_18 - NEUILLÉ-PONT-PIERRE &gt; CHÂTEAU-RENAULT</service3>
-		<url_service3>https://media.mobireport.fr/244/pdf_files/d1b9c4057d4a12685b920e9f343796c2.pdf</url_service3>
-		<commentaire>logo_services/remi_ts.png</commentaire>
-		<logo_service4>Circuit Scolaire NO3_22 - SAINT-PATERNE-RACAN &gt; NEUVY-LE-ROI</logo_service4>
-		<service4>https://media.mobireport.fr/244/pdf_files/46e681eda8d2f0fa9370406d467052f1.pdf</service4>
+		<service3>Circuit Scolaire NO3_22 - SAINT-PATERNE-RACAN &gt; NEUVY-LE-ROI</service3>
+		<url_service3>https://media.mobireport.fr/244/pdf_files/46e681eda8d2f0fa9370406d467052f1.pdf</url_service3>
 	</infos_arret>
 	<infos_arret>
 		<commune>NOIZAY</commune>
@@ -20814,18 +20865,21 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>ORBIGNY</commune>
-		<arret>Ecole</arret>
+		<arret>Ecole (Mairie)</arret>
 		<geo>47.209727,1.23565</geo>
-		<code_jvmalin>_</code_jvmalin>
+		<code_jvmalin>135535</code_jvmalin>
 		<code_remi>6625</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_ts.png</logo_service1>
-		<service1>Circuit Scolaire SE1_1 - ORBIGNY &gt; LOCHES</service1>
-		<url_service1>https://media.mobireport.fr/244/pdf_files/3ddeb4490550184d69315b88a8e5b004.pdf</url_service1>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
-		<service2>Circuit Scolaire SE6_3 - ORBIGNY &gt; MONTRÉSOR</service2>
-		<url_service2>https://media.mobireport.fr/244/pdf_files/3fb6044fbf68a213c3a0c7a99d65e731.pdf</url_service2>
+		<service2>Circuit Scolaire SE1_1 - ORBIGNY &gt; LOCHES</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/3ddeb4490550184d69315b88a8e5b004.pdf</url_service2>
+		<logo_service3>logo_services/remi_ts.png</logo_service3>
+		<service3>Circuit Scolaire SE6_3 - ORBIGNY &gt; MONTRÉSOR</service3>
+		<url_service3>https://media.mobireport.fr/244/pdf_files/3fb6044fbf68a213c3a0c7a99d65e731.pdf</url_service3>
 	</infos_arret>
 	<infos_arret>
 		<commune>ORBIGNY</commune>
@@ -24879,18 +24933,22 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>SAINT QUENTIN SUR INDROIS</commune>
-		<arret>Centre (Le Bourg)</arret>
+		<arret>Centre (Champs de foire)</arret>
 		<geo>47.205116,1.02665</geo>
-		<code_jvmalin>79784</code_jvmalin>
+		<code_jvmalin>135539</code_jvmalin>
 		<code_remi>6669</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE J - SAINTE MAURE DE TOURAINE &gt; LOCHES &gt; AMBOISE</service1>
 		<url_service1>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_J.pdf</url_service1>
-		<logo_service2>logo_services/remi_ts.png</logo_service2>
-		<service2>Circuit Scolaire SE1_1 - ORBIGNY &gt; LOCHES</service2>
-		<url_service2>https://media.mobireport.fr/244/pdf_files/3ddeb4490550184d69315b88a8e5b004.pdf</url_service2>
+		<logo_service2>logo_services/remi.png</logo_service2>
+		<service2>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service2>
+		<url_service2>https://www.remi-centrevaldeloire.fr/wp-content/uploads/REMI_37_FH_LIGNE_2-2025.pdf</url_service2>
+		<logo_service3>logo_services/remi_ts.png</logo_service3>
+		<service3>Circuit Scolaire SE1_1 - ORBIGNY &gt; LOCHES</service3>
+		<url_service3>https://media.mobireport.fr/244/pdf_files/3ddeb4490550184d69315b88a8e5b004.pdf</url_service3>
+		<commentaire> Le Bourg</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>SAINT QUENTIN SUR INDROIS</commune>
