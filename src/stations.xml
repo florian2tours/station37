@@ -8246,6 +8246,18 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHINON</commune>
+		<arret>Clos de Grésil</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>-</code_fb>
+		<logo_service1>logo_services/cvl_mobilite.png</logo_service1>
+		<service1>SITRADEM - TAD -&gt; communes de la CC CVL (desserte prioritaire en heure de pointe)</service1>
+		<url_service1>https://www.chinon-vienne-loire.fr/app/uploads/2024/08/Z-CARD_Z08_Pocket_560x297_CVLMOBILITE-insert-FR.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>CHINON</commune>
 		<arret>Collège Jean Zay</arret>
 		<geo>47.165068,0.252179</geo>
 		<code_jvmalin>80002</code_jvmalin>
@@ -9062,6 +9074,9 @@
 		<logo_service2>logo_services/remi_tad.png</logo_service2>
 		<service2>desservi par le service 37-03 - secteur de Chinon (réservé aux bénéficiaires APA et personnes avec taux d’invalidité 80%)</service2>
 		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-03.pdf</url_service2>
+		<logo_service3>logo_services/cvl_mobilite.png</logo_service3>
+		<service3>SITRADEM - TAD -&gt; communes de la CC CVL (desserte prioritaire en heure de pointe)</service3>
+		<url_service3>https://www.chinon-vienne-loire.fr/app/uploads/2024/08/Z-CARD_Z08_Pocket_560x297_CVLMOBILITE-insert-FR.pdf</url_service3>
 		<commentaire>Rue du Faubourg Saint-Jacques</commentaire>
 	</infos_arret>
 	<infos_arret>
@@ -22884,6 +22899,18 @@
 		<url_service1>https://media.mobireport.fr/244/pdf_files/ca18f95716fa9bc703ec6bdb9380b877.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
+		<commune>RIVIERE</commune>
+		<arret>Stade</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/cvl_mobilite.png</logo_service1>
+		<service1>SITRADEM - TAD -&gt; communes de la CC CVL (desserte prioritaire en heure de pointe)</service1>
+		<url_service1>https://www.chinon-vienne-loire.fr/app/uploads/2024/08/Z-CARD_Z08_Pocket_560x297_CVLMOBILITE-insert-FR.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
 		<commune>ROCHECORBON</commune>
 		<arret>Champ Long</arret>
 		<geo>47.424278,0.738411</geo>
@@ -26765,6 +26792,18 @@
 		<logo_service1>logo_services/remi_ts.png</logo_service1>
 		<service1>Circuit Scolaire SO1_8 - SAINT-GERMAIN-SUR-VIENNE &gt; CHINON</service1>
 		<url_service1>https://media.mobireport.fr/244/pdf_files/285265e316fae3fecbe35d0348341f59.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>SEUILLY</commune>
+		<arret>Le Coudray </arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/cvl_mobilite.png</logo_service1>
+		<service1>SITRADEM - TAD -&gt; communes de la CC CVL (desserte prioritaire en heure de pointe)</service1>
+		<url_service1>https://www.chinon-vienne-loire.fr/app/uploads/2024/08/Z-CARD_Z08_Pocket_560x297_CVLMOBILITE-insert-FR.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>SONZAY</commune>
