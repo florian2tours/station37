@@ -71,18 +71,6 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>ABILLY</commune>
-		<arret>Maison de retraite</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-09 - secteur de Abilly</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-09.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
-		<commune>ABILLY</commune>
 		<arret>Ribault</arret>
 		<geo>46.963189,0.705694</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -3834,12 +3822,9 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
-		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-12 - secteur de Loches</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-12.pdf</url_service2>
-		<commentaire>a proximité de la Mairie</commentaire>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+		<commentaire>Parking de la MEETS, a proximité de la Mairie</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>BEAULIEU LES LOCHES</commune>
@@ -4230,8 +4215,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>BEAUMONT-LOUESTAULT</commune>
@@ -4245,8 +4230,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO3_18 - NEUILLÉ-PONT-PIERRE &gt; CHÂTEAU-RENAULT</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/d1b9c4057d4a12685b920e9f343796c2.pdf</url_service3>
@@ -4283,7 +4268,8 @@
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service1>
+		<commentaire> 4 rue de la Mairie</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>BENAIS</commune>
@@ -4737,27 +4723,30 @@
 		<service1>LIGNE D - BLERE &gt; ATHEE SUR CHER &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_D.pdf</url_service1>
 		<logo_service2>logo_services/remi.png</logo_service2>
-		<service2>LIGNE TB - ATHEE SUR CHER &gt; BLERE &gt; AMBOISE (Ligne Rémi à la demande)</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_TB.pdf</url_service2>
-		<logo_service3>logo_services/remi_tad.png</logo_service3>
-		<service3>desservi par le service 37-26 - secteur de   Bléré, La Croix-en-Touraine</service3>
-		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-26.pdf</url_service3>
+		<service2>LIGNE L2 - LOCHES &gt; CHÉDIGNY &gt; BLÉRÉ &gt; CHENONCEAUX  (NAVETTE ESTIVALE)</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service2>
+		<logo_service3>logo_services/remi.png</logo_service3>
+		<service3>LIGNE TB - ATHEE SUR CHER &gt; BLERE &gt; AMBOISE (Ligne Rémi à la demande)</service3>
+		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_TB.pdf</url_service3>
 		<commentaire>MAISON MÉDICALE/MARCHÉ/TENNIS</commentaire>
-		<logo_service4>logo_services/remi_ts.png</logo_service4>
-		<service4>Circuit Scolaire NE2_1 - ÉPEIGNÉ-LES-BOIS &gt; AMBOISE</service4>
-		<url_service4>https://media.mobireport.fr/244/pdf_files/68615ffa32fdb447c312d34710911652.pdf</url_service4>
+		<logo_service4>logo_services/remi_tad.png</logo_service4>
+		<service4>desservi par le service 37-26 - secteur de   Bléré, La Croix-en-Touraine</service4>
+		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-26.pdf</url_service4>
 		<logo_service5>logo_services/remi_ts.png</logo_service5>
-		<service5>Circuit Scolaire NE2_2 - CIGOGNÉ &gt; AMBOISE</service5>
-		<url_service5>https://media.mobireport.fr/244/pdf_files/b86f78db89fc171680e64a6fe00ac55f.pdf</url_service5>
+		<service5>Circuit Scolaire NE2_1 - ÉPEIGNÉ-LES-BOIS &gt; AMBOISE</service5>
+		<url_service5>https://media.mobireport.fr/244/pdf_files/68615ffa32fdb447c312d34710911652.pdf</url_service5>
 		<logo_service6>logo_services/remi_ts.png</logo_service6>
-		<service6>Circuit Scolaire NE2_5 - LACROIX-EN-TOURAINE &gt; AMBOISE</service6>
-		<url_service6>https://media.mobireport.fr/244/pdf_files/d49a74258218cdc28998592079356697.pdf</url_service6>
+		<service6>Circuit Scolaire NE2_2 - CIGOGNÉ &gt; AMBOISE</service6>
+		<url_service6>https://media.mobireport.fr/244/pdf_files/b86f78db89fc171680e64a6fe00ac55f.pdf</url_service6>
 		<logo_service7>logo_services/remi_ts.png</logo_service7>
-		<service7>Circuit Scolaire NE2_11 - LA CROIX-EN-TOURAINE &gt; BLÉRÉ &gt; AMBOISE</service7>
-		<url_service7>https://media.mobireport.fr/244/pdf_files/e9fa2f6ef441880fa8441ce389bb143e.pdf</url_service7>
+		<service7>Circuit Scolaire NE2_5 - LACROIX-EN-TOURAINE &gt; AMBOISE</service7>
+		<url_service7>https://media.mobireport.fr/244/pdf_files/d49a74258218cdc28998592079356697.pdf</url_service7>
 		<logo_service8>logo_services/remi_ts.png</logo_service8>
-		<service8>Circuit Scolaire NE2_18 - AZAY-SUR-CHER &gt; AMBOISE</service8>
-		<url_service8>https://media.mobireport.fr/244/pdf_files/46ae592e55f8dfcb66d321fbea65f910.pdf</url_service8>
+		<service8>Circuit Scolaire NE2_11 - LA CROIX-EN-TOURAINE &gt; BLÉRÉ &gt; AMBOISE</service8>
+		<url_service8>https://media.mobireport.fr/244/pdf_files/e9fa2f6ef441880fa8441ce389bb143e.pdf</url_service8>
+		<logo_service9>logo_services/remi_ts.png</logo_service9>
+		<service9>Circuit Scolaire NE2_18 - AZAY-SUR-CHER &gt; AMBOISE</service9>
+		<url_service9>https://media.mobireport.fr/244/pdf_files/46ae592e55f8dfcb66d321fbea65f910.pdf</url_service9>
 	</infos_arret>
 	<infos_arret>
 		<commune>BLERE</commune>
@@ -4916,19 +4905,6 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>BOURGUEIL</commune>
-		<arret>Ave Jean Causeret</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-15 - secteur de Bourgueil</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-15.pdf</url_service1>
-		<logo_service2>logo_services/remi_ts.png</logo_service2>
-	</infos_arret>
-	<infos_arret>
-		<commune>BOURGUEIL</commune>
 		<arret>Avenue de Saint Nicolas</arret>
 		<geo>47.285117,0.162783</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -5070,15 +5046,16 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>BOURGUEIL</commune>
-		<arret>La Patinoire</arret>
+		<arret>Place Marcellin Renault</arret>
 		<geo>47.284964,0.172028</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-15 - secteur de Bourgueil</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-15.pdf</url_service1>
+		<service1>desservi par le service 37-50 - secteur de Bourgueil</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-50.pdf</url_service1>
+		<commentaire>ex Patinoire</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>BOURGUEIL</commune>
@@ -5091,12 +5068,9 @@
 		<logo_service1>logo_services/cvl_mobilite.png</logo_service1>
 		<service1>SITRAVEL - LIGNE A -&gt; Chinon - Beamont-en-Véron - Avoine - Port-Boulet - Bourgueil</service1>
 		<url_service1>https://www.chinon-vienne-loire.fr/vie-quotidienne/mobilite-et-transports/transports-en-bus-sitravel-2/</url_service1>
-		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-15 - secteur de Bourgueil</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-15.pdf</url_service2>
-		<logo_service3>logo_services/remi_ts.png</logo_service3>
-		<service3>Circuit Scolaire SO1_18 - CONTINVOIR &gt; CHINON</service3>
-		<url_service3>https://media.mobireport.fr/244/pdf_files/fdde203ac37fb2cfbefd7d2cd0ca5738.pdf</url_service3>
+		<logo_service2>logo_services/remi_ts.png</logo_service2>
+		<service2>Circuit Scolaire SO1_18 - CONTINVOIR &gt; CHINON</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/fdde203ac37fb2cfbefd7d2cd0ca5738.pdf</url_service2>
 		<commentaire>⚠️ arrêt suspendu en raison de travaux // a proximité du Mail Orye (Arret face Abbaye + Arret devant La Poste)</commentaire>
 	</infos_arret>
 	<infos_arret>
@@ -5114,8 +5088,8 @@
 		<service2>SITRAVEL - LIGNE A -&gt; Chinon - Beamont-en-Véron - Avoine - Port-Boulet - Bourgueil</service2>
 		<url_service2>https://www.chinon-vienne-loire.fr/vie-quotidienne/mobilite-et-transports/transports-en-bus-sitravel-2/</url_service2>
 		<logo_service3>logo_services/remi_tad.png</logo_service3>
-		<service3>desservi par le service 37-15 - secteur de Bourgueil</service3>
-		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-15.pdf</url_service3>
+		<service3>desservi par le service 37-50 - secteur de Bourgueil</service3>
+		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-50.pdf</url_service3>
 		<commentaire>a proximité du Laboratoire</commentaire>
 		<logo_service4>logo_services/remi_ts.png</logo_service4>
 		<service4>Circuit Scolaire SO1_15 - BOURGUEIL &gt; CHINON</service4>
@@ -5154,8 +5128,8 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-15 - secteur de Bourgueil</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-15.pdf</url_service1>
+		<service1>desservi par le service 37-50 - secteur de Bourgueil</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-50.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>BOURGUEIL</commune>
@@ -5673,8 +5647,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO2_9 - BUEIL-EN-TOURAINE &gt; CHÂTEAU-LA-VALLIÈRE</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/eea5a9cba4ca31b595fcb60f3d4720f9.pdf</url_service3>
@@ -6115,8 +6089,8 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
-		<service1>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_2-2025.pdf</url_service1>
+		<service1>LIGNE L2 - LOCHES &gt; CHÉDIGNY &gt; BLÉRÉ &gt; CHENONCEAUX  (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
 		<service2>Circuit Scolaire SE1_16 - DOLUS-LE-SEC &gt; LOCHES</service2>
 		<url_service2>https://media.mobireport.fr/244/pdf_files/8652ec373f4af0d59e7b9cbb1435b771.pdf</url_service2>
@@ -7015,7 +6989,7 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU LA VALLIERE</commune>
-		<arret>Le Plateau (Avenue du Général de Gaulle)</arret>
+		<arret>Avenue du Général de Gaulle (Le Plateau)</arret>
 		<geo>47.544434,0.326379</geo>
 		<code_jvmalin>79929</code_jvmalin>
 		<code_remi>7206</code_remi>
@@ -7027,6 +7001,18 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU LA VALLIERE</commune>
+		<arret>Avenue du Général de Gaulle (Centre commercial)</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-48 - secteur de Château-la-Vallière</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-48.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>CHATEAU LA VALLIERE</commune>
 		<arret>Maison médicale</arret>
 		<geo>_</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -7034,8 +7020,22 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-17 - secteur de Château-la-Vallière</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-17.pdf</url_service1>
+		<service1>desservi par le service 37-48 - secteur de Château-la-Vallière</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-48.pdf</url_service1>
+		<url_service3>RUE DES PORTES DE FER</url_service3>
+	</infos_arret>
+	<infos_arret>
+		<commune>CHATEAU LA VALLIERE</commune>
+		<arret>Place du Champ de Foire (Ecole St Joseph)</arret>
+		<geo>47.548520,0.319621</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-48 - secteur de Château-la-Vallière</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-48.pdf</url_service1>
+		<commentaire>La Poste, Commerces, Marché</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU LA VALLIERE</commune>
@@ -7048,12 +7048,9 @@
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE R - CHATEAU LA VALLIERE &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_R.pdf</url_service1>
-		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-17 - secteur de Château-la-Vallière</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-17.pdf</url_service2>
-		<logo_service3>logo_services/remi_ts.png</logo_service3>
-		<service3>Circuit Scolaire NO2_11 - CHÂTEAU-LA-VALLIÈRE &gt; LUCEAU</service3>
-		<url_service3>https://media.mobireport.fr/244/pdf_files/9d172e0e23381a5a0e20c6564a40dcef.pdf</url_service3>
+		<logo_service2>logo_services/remi_ts.png</logo_service2>
+		<service2>Circuit Scolaire NO2_11 - CHÂTEAU-LA-VALLIÈRE &gt; LUCEAU</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/9d172e0e23381a5a0e20c6564a40dcef.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
@@ -7119,9 +7116,9 @@
 		<service1>Bus urbain municipal - L’élan Coluche &gt; Bel-Air</service1>
 		<url_service1>https://www.ville-chateau-renault.fr/wp-content/uploads/2023/12/horaires_transport_urbain_2_septembre_2021.pdf</url_service1>
 		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-05 - secteur de Château Renault</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service2>
-		<commentaire>ZONE COMMERCIALE INTERMARCHÉ</commentaire>
+		<service2>desservi par le service 37-29 - secteur de Château Renault</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service2>
+		<commentaire>RUE DU PETIT VERSAILLES  (ZONE COMMERCIALE INTERMARCHÉ)</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
@@ -7140,13 +7137,13 @@
 		<logo_service3>logo_services/remi.png</logo_service3>
 		<service3>LIGNE TA - CHATEAU RENAULT &gt; AMBOISE</service3>
 		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_TA.pdf</url_service3>
-		<commentaire>ZONE COMMERCIALE CARREFOUR</commentaire>
+		<commentaire>RUE GAMBETTA (ZONE COMMERCIALE CARREFOUR)</commentaire>
 		<logo_service4>logo_services/bus_chr.png</logo_service4>
 		<service4>Bus urbain municipal - L’élan Coluche &gt; Bel-Air</service4>
 		<url_service4>https://www.ville-chateau-renault.fr/wp-content/uploads/2023/12/horaires_transport_urbain_2_septembre_2021.pdf</url_service4>
 		<logo_service5>logo_services/remi_tad.png</logo_service5>
-		<service5>desservi par le service 37-05 - secteur de Château Renault</service5>
-		<url_service5>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service5>
+		<service5>desservi par le service 37-29 - secteur de Château Renault</service5>
+		<url_service5>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service5>
 		<logo_service6>logo_services/remi_ts.png</logo_service6>
 		<service6>Circuit Scolaire NE3_9 - CHÂTEAU-RENAULT &gt; MONNAIE</service6>
 		<url_service6>https://media.mobireport.fr/244/pdf_files/21c6678a347c3a32f41d3f31c17e7cd0.pdf</url_service6>
@@ -7222,8 +7219,8 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
-		<arret>Communauté de communes</arret>
-		<geo>_</geo>
+		<arret>Communauté de communes (Maison médicale)</arret>
+		<geo>47.589899,0.907952</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
@@ -7231,6 +7228,10 @@
 		<logo_service1>logo_services/bus_chr.png</logo_service1>
 		<service1>Bus urbain municipal - L’élan Coluche &gt; Bel-Air</service1>
 		<url_service1>https://www.ville-chateau-renault.fr/wp-content/uploads/2023/12/horaires_transport_urbain_2_septembre_2021.pdf</url_service1>
+		<logo_service2>logo_services/remi_tad.png</logo_service2>
+		<service2>desservi par le service 37-29 - secteur de Château Renault</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service2>
+		<commentaire>Rue du Four Brûlé</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
@@ -7282,6 +7283,25 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
+		<arret>Gare (Ave André Bertrand)</arret>
+		<geo>47.587271,0.90153</geo>
+		<code_jvmalin>79864</code_jvmalin>
+		<code_remi>6816</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi.png</logo_service1>
+		<service1>LIGNE A - CHATEAU RENAULT &gt; VILLEDOMER &gt; TOURS</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_A.pdf</url_service1>
+		<logo_service2>logo_services/remi_tad.png</logo_service2>
+		<service2>desservi par le service 37-29 - secteur de Château Renault</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service2>
+		<logo_service3>logo_services/remi_ts.png</logo_service3>
+		<service3>Circuit Scolaire NE3_9 - CHÂTEAU-RENAULT &gt; MONNAIE</service3>
+		<url_service3>https://media.mobireport.fr/244/pdf_files/21c6678a347c3a32f41d3f31c17e7cd0.pdf</url_service3>
+		<commentaire>Ex Rue de Launay</commentaire>
+	</infos_arret>
+	<infos_arret>
+		<commune>CHATEAU-RENAULT</commune>
 		<arret>Gare (Caserne des pompiers)</arret>
 		<geo>47.588531,0.902617</geo>
 		<code_jvmalin>79866</code_jvmalin>
@@ -7312,24 +7332,6 @@
 		<logo_service3>logo_services/remi.png</logo_service3>
 		<service3>LIGNE TA - CHATEAU RENAULT &gt; AMBOISE</service3>
 		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_TA.pdf</url_service3>
-		<logo_service4>logo_services/remi_tad.png</logo_service4>
-		<service4>desservi par le service 37-05 - secteur de Château Renault</service4>
-		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service4>
-	</infos_arret>
-	<infos_arret>
-		<commune>CHATEAU-RENAULT</commune>
-		<arret>Gare (Rue de Launay)</arret>
-		<geo>47.587271,0.90153</geo>
-		<code_jvmalin>79864</code_jvmalin>
-		<code_remi>6816</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi.png</logo_service1>
-		<service1>LIGNE A - CHATEAU RENAULT &gt; VILLEDOMER &gt; TOURS</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_A.pdf</url_service1>
-		<logo_service2>logo_services/remi_ts.png</logo_service2>
-		<service2>Circuit Scolaire NE3_9 - CHÂTEAU-RENAULT &gt; MONNAIE</service2>
-		<url_service2>https://media.mobireport.fr/244/pdf_files/21c6678a347c3a32f41d3f31c17e7cd0.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
@@ -7405,9 +7407,6 @@
 		<logo_service2>logo_services/bus_chr.png</logo_service2>
 		<service2>Bus urbain municipal - L’élan Coluche &gt; Bel-Air</service2>
 		<url_service2>https://www.ville-chateau-renault.fr/wp-content/uploads/2023/12/horaires_transport_urbain_2_septembre_2021.pdf</url_service2>
-		<logo_service3>logo_services/remi_tad.png</logo_service3>
-		<service3>desservi par le service 37-05 - secteur de Château Renault</service3>
-		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service3>
 		<commentaire>Place de la Tannerie</commentaire>
 	</infos_arret>
 	<infos_arret>
@@ -7567,9 +7566,6 @@
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-05 - secteur de Château Renault</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
@@ -7592,8 +7588,8 @@
 		<service4>Bus urbain municipal - L’élan Coluche &gt; Bel-Air</service4>
 		<url_service4>https://www.ville-chateau-renault.fr/wp-content/uploads/2023/12/horaires_transport_urbain_2_septembre_2021.pdf</url_service4>
 		<logo_service5>logo_services/remi_tad.png</logo_service5>
-		<service5>desservi par le service 37-05 - secteur de Château Renault</service5>
-		<url_service5>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service5>
+		<service5>desservi par le service 37-29 - secteur de Château Renault</service5>
+		<url_service5>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service5>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHATEAU-RENAULT</commune>
@@ -7654,9 +7650,10 @@
 		<logo_service3>logo_services/bus_chr.png</logo_service3>
 		<service3>Bus urbain municipal - L’élan Coluche &gt; Bel-Air</service3>
 		<url_service3>https://www.ville-chateau-renault.fr/wp-content/uploads/2023/12/horaires_transport_urbain_2_septembre_2021.pdf</url_service3>
+		<commentaire>Boulevard Jules Joran</commentaire>
 		<logo_service4>logo_services/remi_tad.png</logo_service4>
-		<service4>desservi par le service 37-05 - secteur de Château Renault</service4>
-		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-05.pdf</url_service4>
+		<service4>desservi par le service 37-29 - secteur de Château Renault</service4>
+		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service4>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHAUMUSSAY</commune>
@@ -7821,8 +7818,8 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
-		<service1>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_2-2025.pdf</url_service1>
+		<service1>LIGNE L2 - LOCHES &gt; CHÉDIGNY &gt; BLÉRÉ &gt; CHENONCEAUX  (NAVETTE ESTIVALE)</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHEILLE</commune>
@@ -7992,8 +7989,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO3_19 - ÉPEIGNÉ-LES-BOIS &gt; NEUVY-LE-ROI</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/13d19f73cc82ba7e29abdba3f1f9ab75.pdf</url_service3>
@@ -8064,7 +8061,7 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHEMILLE-SUR-INDROIS</commune>
-		<arret>Pièce de Chemillé</arret>
+		<arret>4 rue des Buis</arret>
 		<geo>_</geo>
 		<code_jvmalin>135534</code_jvmalin>
 		<code_remi>_</code_remi>
@@ -8072,7 +8069,7 @@
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHENONCEAUX</commune>
@@ -8119,8 +8116,8 @@
 		<service1>LIGNE C TOURISTIQUE - TOURS &gt; AMBOISE &gt; CHENONCEAUX</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_Ctouristique-4.pdf</url_service1>
 		<logo_service2>logo_services/remi.png</logo_service2>
-		<service2>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_2-2025.pdf</url_service2>
+		<service2>LIGNE L2 - LOCHES &gt; CHÉDIGNY &gt; BLÉRÉ &gt; CHENONCEAUX  (NAVETTE ESTIVALE)</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHEZELLES</commune>
@@ -8581,6 +8578,18 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>CHINON</commune>
+		<arret>Le Ruisseau</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/cvl_mobilite.png</logo_service1>
+		<service1>SITRADEM - TAD -&gt; Navette Parc d'activité Véron-CNPE</service1>
+		<url_service1>https://sitradem.chinon-vienne-loire.fr/search</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>CHINON</commune>
 		<arret>Les Battages</arret>
 		<geo>47.179033,0.253333</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -8617,18 +8626,6 @@
 		<logo_service1>logo_services/remi_ts.png</logo_service1>
 		<service1>Circuit Scolaire SO1_10 - CHINON &gt; CHINON</service1>
 		<url_service1>https://media.mobireport.fr/244/pdf_files/5709a944dfc71dddd6371d06f88912f6.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
-		<commune>CHINON</commune>
-		<arret>Le Ruisseau</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/cvl_mobilite.png</logo_service1>
-		<service1>SITRADEM - TAD -&gt; Navette Parc d'activité Véron-CNPE</service1>
-		<url_service1>https://sitradem.chinon-vienne-loire.fr/search</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>CHINON</commune>
@@ -11031,8 +11028,8 @@
 		<url_service3>https://www.ville-descartes.fr/medias/Transport/Livret_philobus_pour_publication.pdf</url_service3>
 		<commentaire>abribus, a proximité de Intermarché</commentaire>
 		<logo_service4>logo_services/remi_tad.png</logo_service4>
-		<service4>desservi par le service 37-10 - secteur de Descartes</service4>
-		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-10.pdf</url_service4>
+		<service4>desservi par le service 37-37 - secteur de Descartes</service4>
+		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-37.pdf</url_service4>
 		<logo_service5>logo_services/remi_ts.png</logo_service5>
 		<service5>Circuit Scolaire SE3_2 - DESCARTES &gt;  SAINTE-MAURE-DE-TOURAINE</service5>
 		<url_service5>https://media.mobireport.fr/244/pdf_files/0831fb3bd51602b4c596ba7e0df77470.pdf</url_service5>
@@ -11048,6 +11045,9 @@
 		<logo_service1>logo_services/philobus.png</logo_service1>
 		<service1>Service de bus urbain - Maison médicale &gt; Mendès France</service1>
 		<url_service1>https://www.ville-descartes.fr/medias/Transport/Livret_philobus_pour_publication.pdf</url_service1>
+		<logo_service2>logo_services/remi_tad.png</logo_service2>
+		<service2>desservi par le service 37-37 - secteur de Descartes</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-37.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>DESCARTES</commune>
@@ -11257,8 +11257,8 @@
 		<service1>Service de bus urbain - Maison médicale &gt; Mendès France</service1>
 		<url_service1>https://www.ville-descartes.fr/medias/Transport/Livret_philobus_pour_publication.pdf</url_service1>
 		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-10 - secteur de Descartes</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-10.pdf</url_service2>
+		<service2>desservi par le service 37-37 - secteur de Descartes</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-37.pdf</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire SE1_20 - DESCARTES &gt; LOCHES</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/b96d1a20b58338025ceb9b5227e2067c.pdf</url_service3>
@@ -11266,7 +11266,7 @@
 	<infos_arret>
 		<commune>DESCARTES</commune>
 		<arret>Maison médicale</arret>
-		<geo>47.342629,-1.526952</geo>
+		<geo>46.978610,0.696949</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
@@ -11275,8 +11275,8 @@
 		<service1>Service de bus urbain - Maison médicale &gt; Mendès France</service1>
 		<url_service1>https://www.ville-descartes.fr/medias/Transport/Livret_philobus_pour_publication.pdf</url_service1>
 		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-10 - secteur de Descartes</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-10.pdf</url_service2>
+		<service2>desservi par le service 37-37 - secteur de Descartes</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-37.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>DESCARTES</commune>
@@ -11601,8 +11601,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO3_19 - ÉPEIGNÉ-LES-BOIS &gt; NEUVY-LE-ROI</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/13d19f73cc82ba7e29abdba3f1f9ab75.pdf</url_service3>
@@ -15159,18 +15159,6 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LE GRAND‐PRESSIGNY</commune>
-		<arret>Accueil Marjolaine</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-11 - secteur du Grand Pressigny</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-11.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
-		<commune>LE GRAND‐PRESSIGNY</commune>
 		<arret>Collège</arret>
 		<geo>46.922620,0.805514</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -15246,28 +15234,16 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LE GRAND‐PRESSIGNY</commune>
-		<arret>Place de l’Église</arret>
+		<arret>Mairie</arret>
 		<geo>_</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-11 - secteur du Grand Pressigny</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-11.pdf</url_service1>
-		<commentaire>a proximité de la Mairie</commentaire>
-	</infos_arret>
-	<infos_arret>
-		<commune>LE GRAND‐PRESSIGNY</commune>
-		<arret>Place des Halles</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-11 - secteur du Grand Pressigny</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-11.pdf</url_service1>
+		<service1>desservi par le service 37-39 - secteur du Grand Pressigny</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-39.pdf</url_service1>
+		<commentaire>a proximité Office de tourisme, Accueil Marjolaine</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>LE GRAND‐PRESSIGNY</commune>
@@ -16211,6 +16187,19 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
+		<arret>Avenue du Général De Gaulle</arret>
+		<geo>47.126717,0.991172</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+		<commentaire>Pôle social Simone Veil</commentaire>
+	</infos_arret>
+	<infos_arret>
+		<commune>LOCHES</commune>
 		<arret>Carroi Picois</arret>
 		<geo>_</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -16220,6 +16209,19 @@
 		<logo_service1>logo_services/loches.png</logo_service1>
 		<service1>Transport à la demande</service1>
 		<url_service1>https://www.ville-loches.fr/stationnement-et-transport-article-2-6-17.html</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>LOCHES</commune>
+		<arret>Centre hospitalier</arret>
+		<geo>47.128708,1.001818</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+		<commentaire>Rue du Docteur Martinais</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
@@ -16320,6 +16322,18 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
+		<arret>Complexe sportif de Grand Vau</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>LOCHES</commune>
 		<arret>Corbery</arret>
 		<geo>47.140927,1.008146</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -16345,8 +16359,8 @@
 		<service2>LIGNE TC - DESCARTES &gt; LOCHES &gt; GENILLE</service2>
 		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_TC.pdf</url_service2>
 		<logo_service3>logo_services/remi_tad.png</logo_service3>
-		<service3>desservi par le service 37-06 - secteur de Loches</service3>
-		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service3>
+		<service3>desservi par le service 37-34 - secteur de Loches</service3>
+		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service3>
 		<commentaire>Hôtel Des Impôts</commentaire>
 	</infos_arret>
 	<infos_arret>
@@ -16377,35 +16391,17 @@
 		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_J.pdf</url_service2>
 		<logo_service3>logo_services/remi.png</logo_service3>
 		<service3>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service3>
-		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_1-2025.pdf</url_service3>
+		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service3>
 		<commentaire>Parking Gare SNCF</commentaire>
 		<logo_service4>logo_services/remi.png</logo_service4>
-		<service4>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service4>
-		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_2-2025.pdf</url_service4>
+		<service4>LIGNE L2 - LOCHES &gt; CHÉDIGNY &gt; BLÉRÉ &gt; CHENONCEAUX  (NAVETTE ESTIVALE)</service4>
+		<url_service4>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service4>
 		<logo_service5>logo_services/remi.png</logo_service5>
 		<service5>LIGNE TC - DESCARTES &gt; LOCHES &gt; GENILLE</service5>
 		<url_service5>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_TC.pdf</url_service5>
-		<logo_service6>logo_services/remi_tad.png</logo_service6>
-		<service6>desservi par le service 37-06 - secteur de Loches</service6>
-		<url_service6>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service6>
-		<logo_service7>logo_services/remi_tad.png</logo_service7>
-		<service7>desservi par le service 37-12 - secteur de Loches</service7>
-		<url_service7>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-12.pdf</url_service7>
-		<logo_service8>logo_services/car.png</logo_service8>
-		<service8>mini bus -  gare SNCF de Loches - MFR du Lochois (lun.)</service8>
-		<url_service8>https://www.mfrlochois.fr/fr/article/questions-pratiques-4.html</url_service8>
-	</infos_arret>
-	<infos_arret>
-		<commune>LOCHES</commune>
-		<arret>Hôpital</arret>
-		<geo>47.128708,1.001818</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-12 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-12.pdf</url_service1>
+		<logo_service6>logo_services/car.png</logo_service6>
+		<service6>mini bus -  gare SNCF de Loches - MFR du Lochois (lun.)</service6>
+		<url_service6>https://www.mfrlochois.fr/fr/article/questions-pratiques-4.html</url_service6>
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
@@ -16481,22 +16477,6 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
-		<arret>Maison De Retraite Puygibault</arret>
-		<geo>47.115822,0.974728</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
-		<logo_service2>logo_services/loches.png</logo_service2>
-		<service2>Transport à la demande</service2>
-		<url_service2>https://www.ville-loches.fr/stationnement-et-transport-article-2-6-17.html</url_service2>
-		<commentaire>Résidence Puygibault.</commentaire>
-	</infos_arret>
-	<infos_arret>
-		<commune>LOCHES</commune>
 		<arret>MFR du Lochois</arret>
 		<geo>47.131783,0.980515</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -16512,18 +16492,27 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
+		<arret>Office du Tourisme (Avenue de la Gare)</arret>
+		<geo>47.129795,0.999338</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>LOCHES</commune>
 		<arret>Office du Tourisme (Centre Jacques Villeret)</arret>
 		<geo>47.12987,0.998784</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>6591</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
-		<logo_service2>logo_services/loches.png</logo_service2>
-		<service2>Transport à la demande</service2>
-		<url_service2>https://www.ville-loches.fr/stationnement-et-transport-article-2-6-17.html</url_service2>
+		<logo_service1>logo_services/loches.png</logo_service1>
+		<service1>Transport à la demande</service1>
+		<url_service1>https://www.ville-loches.fr/stationnement-et-transport-article-2-6-17.html</url_service1>
 		<commentaire>Pavillon du Tourisme</commentaire>
 	</infos_arret>
 	<infos_arret>
@@ -16540,15 +16529,19 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
-		<arret>Rue des Lézards</arret>
-		<geo>_</geo>
+		<arret>Puygibault</arret>
+		<geo>47.115822,0.974728</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+		<logo_service2>logo_services/loches.png</logo_service2>
+		<service2>Transport à la demande</service2>
+		<url_service2>https://www.ville-loches.fr/stationnement-et-transport-article-2-6-17.html</url_service2>
+		<commentaire>Maison de retraite</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
@@ -16558,9 +16551,7 @@
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
+		<commentaire>ex Sous-Préfecture</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
@@ -16625,6 +16616,19 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHES</commune>
+		<arret>Vauzelles</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
+		<commentaire>parking Super U</commentaire>
+	</infos_arret>
+	<infos_arret>
+		<commune>LOCHES</commune>
 		<arret>Verdun (Parvis Jean-Paul II)</arret>
 		<geo>47.128416,0.995201</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -16632,24 +16636,12 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
+		<service1>desservi par le service 37-34 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-34.pdf</url_service1>
 		<logo_service2>logo_services/loches.png</logo_service2>
 		<service2>Transport à la demande</service2>
 		<url_service2>https://www.ville-loches.fr/stationnement-et-transport-article-2-6-17.html</url_service2>
 		<commentaire>Place de Verdun + Parvis église St-Antoine</commentaire>
-	</infos_arret>
-	<infos_arret>
-		<commune>LOCHES</commune>
-		<arret>Z.I. Vauzelles</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-06 - secteur de Loches</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-06.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>LOCHE-SUR-INDROIS</commune>
@@ -17506,8 +17498,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO3_18 - NEUILLÉ-PONT-PIERRE &gt; CHÂTEAU-RENAULT</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/d1b9c4057d4a12685b920e9f343796c2.pdf</url_service3>
@@ -18645,20 +18637,7 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>MONTRESOR</commune>
-		<arret>Foyer rural</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-07 - secteur de Montrésor</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-07.pdf</url_service1>
-		<commentaire>Rue du 8 mai</commentaire>
-	</infos_arret>
-	<infos_arret>
-		<commune>MONTRESOR</commune>
-		<arret>Gendarmerie</arret>
+		<arret>Foyer rural (Rue du 8 mai)</arret>
 		<geo>_</geo>
 		<code_jvmalin>135533</code_jvmalin>
 		<code_remi>12082</code_remi>
@@ -18666,7 +18645,7 @@
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
 		<service2>Circuit Scolaire SE1_5 - MONTRÉSOR &gt; LOCHES</service2>
 		<url_service2>https://media.mobireport.fr/244/pdf_files/d8b32fbcc866e17d36edb04a8041e099.pdf</url_service2>
@@ -20164,8 +20143,8 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/gatine_racan.png</logo_service1>
-		<service1>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service1>
-		<url_service1>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service1>
+		<service1>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service1>
+		<url_service1>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
 		<service2>Circuit Scolaire NO2_9 - BUEIL-EN-TOURAINE &gt; CHÂTEAU-LA-VALLIÈRE</service2>
 		<url_service2>https://media.mobireport.fr/244/pdf_files/eea5a9cba4ca31b595fcb60f3d4720f9.pdf</url_service2>
@@ -20311,34 +20290,37 @@
 		<code_remi>6382</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_ts.png</logo_service1>
-		<service1>Circuit Scolaire NO2_9 - BUEIL-EN-TOURAINE &gt; CHÂTEAU-LA-VALLIÈRE</service1>
-		<url_service1>https://media.mobireport.fr/244/pdf_files/eea5a9cba4ca31b595fcb60f3d4720f9.pdf</url_service1>
+		<logo_service1>logo_services/gatine_racan.png</logo_service1>
+		<service1>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service1>
+		<url_service1>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
-		<service2>Circuit Scolaire NO3_6 - NEUVY-LE-ROI &gt; BEAUMONT-LOUESTAULT</service2>
-		<url_service2>https://media.mobireport.fr/244/pdf_files/ade4d1335c2e319957494eb0d7b3ddf2.pdf</url_service2>
+		<service2>Circuit Scolaire NO2_9 - BUEIL-EN-TOURAINE &gt; CHÂTEAU-LA-VALLIÈRE</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/eea5a9cba4ca31b595fcb60f3d4720f9.pdf</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
-		<service3>Circuit Scolaire NO3_12 - NEUVY-LE-ROI &gt; SAINT-PATERNE-RACAN (Merc)</service3>
-		<url_service3>https://media.mobireport.fr/244/pdf_files/ea41518e6422412cfc7f4380996e46d8.pdf</url_service3>
+		<service3>Circuit Scolaire NO3_6 - NEUVY-LE-ROI &gt; BEAUMONT-LOUESTAULT</service3>
+		<url_service3>https://media.mobireport.fr/244/pdf_files/ade4d1335c2e319957494eb0d7b3ddf2.pdf</url_service3>
 		<commentaire>Collège H RACAN</commentaire>
 		<logo_service4>logo_services/remi_ts.png</logo_service4>
-		<service4>Circuit Scolaire NO3_19 - NEUVY-LE-ROI &gt; ÉPEIGNÉ-SUR-DÊME</service4>
-		<url_service4>https://media.mobireport.fr/244/pdf_files/13d19f73cc82ba7e29abdba3f1f9ab75.pdf</url_service4>
+		<service4>Circuit Scolaire NO3_12 - NEUVY-LE-ROI &gt; SAINT-PATERNE-RACAN (Merc)</service4>
+		<url_service4>https://media.mobireport.fr/244/pdf_files/ea41518e6422412cfc7f4380996e46d8.pdf</url_service4>
 		<logo_service5>logo_services/remi_ts.png</logo_service5>
-		<service5>Circuit Scolaire NO3_20 - NEUVY-LE-ROI &gt; VILLEBOURG</service5>
-		<url_service5>https://media.mobireport.fr/244/pdf_files/31fd04ad22a150cb086866b48f22c25b.pdf</url_service5>
+		<service5>Circuit Scolaire NO3_19 - NEUVY-LE-ROI &gt; ÉPEIGNÉ-SUR-DÊME</service5>
+		<url_service5>https://media.mobireport.fr/244/pdf_files/13d19f73cc82ba7e29abdba3f1f9ab75.pdf</url_service5>
 		<logo_service6>logo_services/remi_ts.png</logo_service6>
-		<service6>Circuit Scolaire NO3_21 - NEUVY-LE-ROI &gt; LAFERRIÈRE</service6>
-		<url_service6>https://media.mobireport.fr/244/pdf_files/f51ae8a7a2027ba6d4fdb8c2207042c8.pdf</url_service6>
+		<service6>Circuit Scolaire NO3_20 - NEUVY-LE-ROI &gt; VILLEBOURG</service6>
+		<url_service6>https://media.mobireport.fr/244/pdf_files/31fd04ad22a150cb086866b48f22c25b.pdf</url_service6>
 		<logo_service7>logo_services/remi_ts.png</logo_service7>
-		<service7>Circuit Scolaire NO3_22 - NEUVY-LE-ROI &gt; SAINT-PATERNE-RACAN</service7>
-		<url_service7>https://media.mobireport.fr/244/pdf_files/46e681eda8d2f0fa9370406d467052f1.pdf</url_service7>
+		<service7>Circuit Scolaire NO3_21 - NEUVY-LE-ROI &gt; LAFERRIÈRE</service7>
+		<url_service7>https://media.mobireport.fr/244/pdf_files/f51ae8a7a2027ba6d4fdb8c2207042c8.pdf</url_service7>
 		<logo_service8>logo_services/remi_ts.png</logo_service8>
-		<service8>Circuit Scolaire NO3_23 - NEUVY-LE-ROI &gt; SAINT-PATERNE-RACAN</service8>
-		<url_service8>https://media.mobireport.fr/244/pdf_files/b044769c0d0831cde51448e9ff16fe80.pdf</url_service8>
+		<service8>Circuit Scolaire NO3_22 - NEUVY-LE-ROI &gt; SAINT-PATERNE-RACAN</service8>
+		<url_service8>https://media.mobireport.fr/244/pdf_files/46e681eda8d2f0fa9370406d467052f1.pdf</url_service8>
 		<logo_service9>logo_services/remi_ts.png</logo_service9>
-		<service9>Circuit Scolaire NO3_24 - NEUVY-LE-ROI &gt; BEAUMONT-LOUESTAULT (Merc)</service9>
-		<url_service9>https://media.mobireport.fr/244/pdf_files/01e36068123188c2f40ce08976a5a699.pdf</url_service9>
+		<service9>Circuit Scolaire NO3_23 - NEUVY-LE-ROI &gt; SAINT-PATERNE-RACAN</service9>
+		<url_service9>https://media.mobireport.fr/244/pdf_files/b044769c0d0831cde51448e9ff16fe80.pdf</url_service9>
+		<logo_service10>logo_services/remi_ts.png</logo_service10>
+		<service10>Circuit Scolaire NO3_24 - NEUVY-LE-ROI &gt; BEAUMONT-LOUESTAULT (Merc)</service10>
+		<url_service10>https://media.mobireport.fr/244/pdf_files/01e36068123188c2f40ce08976a5a699.pdf</url_service10>
 	</infos_arret>
 	<infos_arret>
 		<commune>NEUVY LE ROI</commune>
@@ -20384,15 +20366,12 @@
 		<code_remi>6384</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
-		<logo_service1>logo_services/gatine_racan.png</logo_service1>
-		<service1>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service1>
-		<url_service1>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service1>
+		<logo_service1>logo_services/remi_ts.png</logo_service1>
+		<service1>Circuit Scolaire NO3_18 - NEUILLÉ-PONT-PIERRE &gt; CHÂTEAU-RENAULT</service1>
+		<url_service1>https://media.mobireport.fr/244/pdf_files/d1b9c4057d4a12685b920e9f343796c2.pdf</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
-		<service2>Circuit Scolaire NO3_18 - NEUILLÉ-PONT-PIERRE &gt; CHÂTEAU-RENAULT</service2>
-		<url_service2>https://media.mobireport.fr/244/pdf_files/d1b9c4057d4a12685b920e9f343796c2.pdf</url_service2>
-		<logo_service3>logo_services/remi_ts.png</logo_service3>
-		<service3>Circuit Scolaire NO3_22 - SAINT-PATERNE-RACAN &gt; NEUVY-LE-ROI</service3>
-		<url_service3>https://media.mobireport.fr/244/pdf_files/46e681eda8d2f0fa9370406d467052f1.pdf</url_service3>
+		<service2>Circuit Scolaire NO3_22 - SAINT-PATERNE-RACAN &gt; NEUVY-LE-ROI</service2>
+		<url_service2>https://media.mobireport.fr/244/pdf_files/46e681eda8d2f0fa9370406d467052f1.pdf</url_service2>
 	</infos_arret>
 	<infos_arret>
 		<commune>NOIZAY</commune>
@@ -21050,7 +21029,7 @@
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE L1 - LOCHES &gt; MONTRESOR &gt; ST AIGNAN (NAVETTE ESTIVALE)</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_1-2025.pdf</url_service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service1>
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
 		<service2>Circuit Scolaire SE1_1 - ORBIGNY &gt; LOCHES</service2>
 		<url_service2>https://media.mobireport.fr/244/pdf_files/3ddeb4490550184d69315b88a8e5b004.pdf</url_service2>
@@ -21469,6 +21448,18 @@
 		<logo_service1>logo_services/remi_ts.png</logo_service1>
 		<service1>Circuit Scolaire NO1_19 - PERNAY &gt; LUYNES</service1>
 		<url_service1>https://media.mobireport.fr/244/pdf_files/5c74d5c90451ad5156ea7f9089d6b245.pdf</url_service1>
+	</infos_arret>
+	<infos_arret>
+		<commune>PERRUSSON</commune>
+		<arret>Centre commercial</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-35 - secteur de Loches</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-35.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>PERRUSSON</commune>
@@ -22071,6 +22062,9 @@
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
 		<service2>Circuit Scolaire SE1_10 - YZEURES-SUR-CREUSE &gt; LOCHES</service2>
 		<url_service2>https://media.mobireport.fr/244/pdf_files/3ecd1088e167333162889ad957a7dff5.pdf</url_service2>
+		<logo_service3>logo_services/remi_tad.png</logo_service3>
+		<service3>desservi par le service 37-40 - secteur de Preuilly sur Claise</service3>
+		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-40.pdf</url_service3>
 	</infos_arret>
 	<infos_arret>
 		<commune>PREUILLY-SUR-CLAISE</commune>
@@ -22081,21 +22075,9 @@
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-13 - secteur de Preuilly sur Claise</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-13.pdf</url_service1>
+		<service1>desservi par le service 37-40 - secteur de Preuilly sur Claise</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-40.pdf</url_service1>
 		<commentaire>ex Gare de Preuilly-sur-Claise</commentaire>
-	</infos_arret>
-	<infos_arret>
-		<commune>PREUILLY-SUR-CLAISE</commune>
-		<arret>Salle des Fêtes</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-13 - secteur de Preuilly sur Claise</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-13.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
 		<commune>PUSSIGNY</commune>
@@ -24294,30 +24276,6 @@
 		<url_service1>https://media.mobireport.fr/244/pdf_files/8ad8c20a8464b16c8406906d2bbca197.pdf</url_service1>
 	</infos_arret>
 	<infos_arret>
-		<commune>SAINT FLOVIER</commune>
-		<arret>Mairie</arret>
-		<geo>46.968466,1.026803</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-14 - secteur de St-Flovier</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-14.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
-		<commune>SAINT FLOVIER</commune>
-		<arret>Rue du commerce</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-14 - secteur de St-Flovier</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-14.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
 		<commune>SAINT GERMAIN SUR VIENNE</commune>
 		<arret>La Barre</arret>
 		<geo>47.176957,0.127013</geo>
@@ -24550,6 +24508,19 @@
 		<logo_service2>logo_services/remi_ts.png</logo_service2>
 		<service2>Circuit Scolaire NE3_13 - LE BOULAY &gt; TOURS</service2>
 		<url_service2>https://media.mobireport.fr/244/pdf_files/9add8bc962f77c8bf371779f8eeb53c5.pdf</url_service2>
+	</infos_arret>
+	<infos_arret>
+		<commune>SAINT LAURENT EN GATINES</commune>
+		<arret>Maison Medicale</arret>
+		<geo>_</geo>
+		<code_jvmalin>_</code_jvmalin>
+		<code_remi>_</code_remi>
+		<code_sncf>_</code_sncf>
+		<code_fb>_</code_fb>
+		<logo_service1>logo_services/remi_tad.png</logo_service1>
+		<service1>desservi par le service 37-28 - secteur de Château Renault</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-29.pdf</url_service1>
+		<commentaire>rue de la Tour Carrée</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>SAINT LAURENT EN GATINES</commune>
@@ -24797,8 +24768,8 @@
 		<service1>LIGNE N1 - BOURGUEIL &gt; ST NICOLAS &gt; SAUMUR</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_N1.pdf</url_service1>
 		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-15 - secteur de Bourgueil</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-15.pdf</url_service2>
+		<service2>desservi par le service 37-50 - secteur de Bourgueil</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-50.pdf</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire SO1_15 - BOURGUEIL &gt; CHINON</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/9fa61495c1c156f2e9bd627741d358d3.pdf</url_service3>
@@ -25055,8 +25026,8 @@
 		<service1>LIGNE M - ST CHRISTOPHE SUR LE NAIS &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_M.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO2_9 - BUEIL-EN-TOURAINE &gt; CHÂTEAU-LA-VALLIÈRE</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/eea5a9cba4ca31b595fcb60f3d4720f9.pdf</url_service3>
@@ -25162,8 +25133,8 @@
 		<service1>LIGNE J - SAINTE MAURE DE TOURAINE &gt; LOCHES &gt; AMBOISE</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_J.pdf</url_service1>
 		<logo_service2>logo_services/remi.png</logo_service2>
-		<service2>LIGNE L2 - LOCHES &gt; CHEDIGNY &gt; CHENONCEAUX (NAVETTE ESTIVALE)</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_2-2025.pdf</url_service2>
+		<service2>LIGNE L2 - LOCHES &gt; CHÉDIGNY &gt; BLÉRÉ &gt; CHENONCEAUX  (NAVETTE ESTIVALE)</service2>
+		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/uploads/2026-06/07-LIGNES-ESTIVALES-2026-REMI_37.pdf</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire SE1_1 - ORBIGNY &gt; LOCHES</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/3ddeb4490550184d69315b88a8e5b004.pdf</url_service3>
@@ -25683,12 +25654,6 @@
 		<logo_service1>logo_services/remi.png</logo_service1>
 		<service1>LIGNE P - SAVIGNE SUR LATHAN &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_P.pdf</url_service1>
-		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-18 - secteur de Savigné-sur-Lathan</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-18.pdf</url_service2>
-		<logo_service3>logo_services/remi_tad.png</logo_service3>
-		<service3>desservi par le service 37-20 - secteur de Savigné-sur-Lathan</service3>
-		<url_service3>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-20.pdf</url_service3>
 	</infos_arret>
 	<infos_arret>
 		<commune>SAVIGNE SUR LATHAN</commune>
@@ -25734,18 +25699,16 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>SAVIGNE SUR LATHAN</commune>
-		<arret>Relais Sépia</arret>
+		<arret>Rue de la Gare</arret>
 		<geo>_</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
 		<code_sncf>_</code_sncf>
 		<code_fb>_</code_fb>
 		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-18 - secteur de Savigné-sur-Lathan</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-18.pdf</url_service1>
-		<logo_service2>logo_services/remi_tad.png</logo_service2>
-		<service2>desservi par le service 37-20 - secteur de Savigné-sur-Lathan</service2>
-		<url_service2>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-20.pdf</url_service2>
+		<service1>desservi par le service 37-49 - secteur de Savigné-sur-Lathan</service1>
+		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-49.pdf</url_service1>
+		<commentaire>Maison de santé, Centre commercial</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>SAVIGNY-EN-VERON</commune>
@@ -26795,7 +26758,7 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>SEUILLY</commune>
-		<arret>Le Coudray </arret>
+		<arret>Le Coudray</arret>
 		<geo>_</geo>
 		<code_jvmalin>_</code_jvmalin>
 		<code_remi>_</code_remi>
@@ -30377,8 +30340,8 @@
 		<service1>LIGNE S - NEUVY LE ROI &gt; TOURS</service1>
 		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/fiche_horaire/REMI_37_FH_LIGNE_S.pdf</url_service1>
 		<logo_service2>logo_services/gatine_racan.png</logo_service2>
-		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2025)</service2>
-		<url_service2>https://www.gatine-racan.fr/wp-content/uploads/2025/06/navette-st-paterne-piscine-affichehoraires.pdf</url_service2>
+		<service2>NAVETTE GRATUITE &gt; CIRCUIT PISCINE (Été 2026)</service2>
+		<url_service2>https://www.gatine-racan.fr/transport/une-navette-gratuite-pour-la-piscine-cet-ete/</url_service2>
 		<logo_service3>logo_services/remi_ts.png</logo_service3>
 		<service3>Circuit Scolaire NO3_20 - VILLEBOURG &gt; NEUVY-LE-ROI</service3>
 		<url_service3>https://media.mobireport.fr/244/pdf_files/31fd04ad22a150cb086866b48f22c25b.pdf</url_service3>
@@ -30521,19 +30484,6 @@
 	</infos_arret>
 	<infos_arret>
 		<commune>VILLELOIN-COULANGE</commune>
-		<arret>EHPAD</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-08 - secteur de Villeloin Coullangé</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-08.pdf</url_service1>
-		<commentaire>36 Rue Des Loges</commentaire>
-	</infos_arret>
-	<infos_arret>
-		<commune>VILLELOIN-COULANGE</commune>
 		<arret>Le Bourg</arret>
 		<geo>47.141214,1.223338</geo>
 		<code_jvmalin>_</code_jvmalin>
@@ -30557,19 +30507,6 @@
 		<logo_service1>logo_services/remi_ts.png</logo_service1>
 		<service1>Circuit Scolaire SE6_2 - VILLEDÔMAIN &gt; MONTRÉSOR</service1>
 		<url_service1>https://media.mobireport.fr/244/pdf_files/181a55fbd4195c1dcb9a8714b786b216.pdf</url_service1>
-	</infos_arret>
-	<infos_arret>
-		<commune>VILLELOIN-COULANGE</commune>
-		<arret>Maison de santé</arret>
-		<geo>_</geo>
-		<code_jvmalin>_</code_jvmalin>
-		<code_remi>_</code_remi>
-		<code_sncf>_</code_sncf>
-		<code_fb>_</code_fb>
-		<logo_service1>logo_services/remi_tad.png</logo_service1>
-		<service1>desservi par le service 37-08 - secteur de Villeloin Coullangé</service1>
-		<url_service1>https://bo.remi-centrevaldeloire.fr/sites/default/files/tad/flyers/37-08.pdf</url_service1>
-		<commentaire>7 Rue du Charreau</commentaire>
 	</infos_arret>
 	<infos_arret>
 		<commune>VILLELOIN-COULANGE</commune>
